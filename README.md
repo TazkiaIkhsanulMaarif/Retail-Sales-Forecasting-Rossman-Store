@@ -5,7 +5,7 @@ End-to-end data pipeline built on the [Rossmann Store Sales](https://www.kaggle.
 > **Live Dashboard:** [Tableau Public Link](#) *(update after publishing)*
 > **Portfolio target:** Data Analyst / Business Intelligence Analyst / Data Engineer
 
-![Dashboard Preview](docs/screenshots/dashboard_main.png)
+<img width="741" height="457" alt="image" src="https://github.com/user-attachments/assets/a76dac5e-6ca9-49a3-93ef-eba9212352ef" />
 
 ---
 
@@ -132,7 +132,7 @@ python forecasting/train_and_predict.py
 
 | Main Dashboard | Insight & Recommendation | Detail Records |
 |---|---|---|
-| ![Dashboard](docs/screenshots/dashboard_main.png) | ![Insight](docs/screenshots/insight_page.png) | ![Records](docs/screenshots/records_page.png) |
+| <img width="741" height="457" alt="image" src="https://github.com/user-attachments/assets/7a98325f-3234-4435-9d96-daa3b4affa3e" /> | <img width="745" height="463" alt="image" src="https://github.com/user-attachments/assets/49326001-3856-493c-b42e-eefd13a2fb67" /> | <img width="725" height="451" alt="image" src="https://github.com/user-attachments/assets/6791b94f-8765-485d-b0f4-de28b6fd803e" /> |
 
 ---
 
