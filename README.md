@@ -84,7 +84,7 @@ Written key findings paired with actionable business recommendations, backed by 
 ### 3. Detail Records
 Row-level drill-down table (store, date, sales, customers) with contextual filters — for data verification and traceability.
 
-![Insight Page](docs/screenshots/insight_page.png)
+<img width="748" height="460" alt="image" src="https://github.com/user-attachments/assets/d3c4bda3-9951-44c3-bec4-af30917b6a16" />
 
 ---
 
