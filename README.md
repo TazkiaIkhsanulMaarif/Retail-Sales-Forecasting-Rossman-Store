@@ -2,8 +2,7 @@
 
 End-to-end data pipeline built on the [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales) dataset — from raw retail data to an interactive BI dashboard, covering data engineering, machine learning forecasting, and business intelligence.
 
-> **Live Dashboard:** [Tableau Public Link](#) *(update after publishing)*
-> **Portfolio target:** Data Analyst / Business Intelligence Analyst / Data Engineer
+> **Dashboard:** Live publish isn't available for this project — see [📥 Download the Dashboard](#-download-the-dashboard) below to explore it yourself, or browse the screenshots in this README.
 
 <img width="741" height="457" alt="image" src="https://github.com/user-attachments/assets/a76dac5e-6ca9-49a3-93ef-eba9212352ef" />
 
