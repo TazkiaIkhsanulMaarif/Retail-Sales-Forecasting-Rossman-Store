@@ -106,28 +106,6 @@ Row-level drill-down table (store, date, sales, customers) with contextual filte
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/retail-dwh.git
-cd retail-dwh
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Configure Snowflake & Airflow connections
-# edit config/ with your credentials
-
-# 4. Run ETL pipeline via Airflow
-airflow dags trigger retail_etl_pipeline
-
-# 5. Run forecasting
-python forecasting/train_and_predict.py
-```
-
----
-
 ## 📸 Screenshots
 
 | Main Dashboard | Insight & Recommendation | Detail Records |
